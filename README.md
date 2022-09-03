@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working at [FlowUs](https://flowus.cn/)
+- ~🔭 I’m currently working at [FlowUs](https://flowus.cn/)~
 - 🌱 I’m currently learning SwfitUI & .net
 - 🤔 I’m looking for help with Rich-Text Collaboration
 - 💬 Ask me about TypeScript
